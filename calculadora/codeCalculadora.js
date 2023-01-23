@@ -21,3 +21,4 @@ cambiobtn.onclick = () => {
     cambiobtn.classList.toggle('active');
     isDark=!isDark;
 }
+
